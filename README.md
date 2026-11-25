@@ -1,3 +1,7 @@
+[![make.fun · Tell a Whole Story in 32 Characters](https://make.fun/badge/u-xvader-tell-a-whole-story-in-32-characters-f86dd978.svg)](https://make.fun/c/u-xvader-tell-a-whole-story-in-32-characters-f86dd978)
+[![rank](https://make.fun/badge/u-xvader-tell-a-whole-story-in-32-characters-f86dd978/myfufufafa/u-xvader-tell-a-whole-story-in-32-characters-f86dd978-entry-v2/rank.svg)](https://make.fun/c/u-xvader-tell-a-whole-story-in-32-characters-f86dd978)
+[![reward](https://make.fun/badge/u-xvader-tell-a-whole-story-in-32-characters-f86dd978/myfufufafa/u-xvader-tell-a-whole-story-in-32-characters-f86dd978-entry-v2/reward.svg)](https://make.fun/c/u-xvader-tell-a-whole-story-in-32-characters-f86dd978)
+
 # Tell a Whole Story in 32 Characters
 
 Entry for make.fun bounty
